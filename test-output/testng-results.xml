@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-09-07T19:00:20 IST" name="Suite" finished-at="2024-09-07T19:01:47 IST" duration-ms="87599">
+    <groups>
+    </groups>
+    <test started-at="2024-09-07T19:00:20 IST" name="Test" finished-at="2024-09-07T19:01:47 IST" duration-ms="87599">
+      <class name="testcases.Qkart_project">
+        <test-method is-config="true" signature="launchBrowser(java.lang.String)[pri:0, instance:testcases.Qkart_project@4218d6a3]" started-at="2024-09-07T19:00:20 IST" name="launchBrowser" finished-at="2024-09-07T19:00:41 IST" duration-ms="21450" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:testcases.Qkart_project@4218d6a3]" started-at="2024-09-07T19:00:41 IST" name="setUp" finished-at="2024-09-07T19:00:54 IST" duration-ms="12556" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testClass1()[pri:1, instance:testcases.Qkart_project@4218d6a3]" started-at="2024-09-07T19:00:54 IST" name="testClass1" finished-at="2024-09-07T19:00:54 IST" duration-ms="427" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testClass1 -->
+        <test-method signature="testClass2()[pri:2, instance:testcases.Qkart_project@4218d6a3]" started-at="2024-09-07T19:00:54 IST" name="testClass2" finished-at="2024-09-07T19:00:54 IST" duration-ms="53" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testClass2 -->
+        <test-method signature="testClass3()[pri:3, instance:testcases.Qkart_project@4218d6a3]" started-at="2024-09-07T19:00:54 IST" name="testClass3" finished-at="2024-09-07T19:00:54 IST" duration-ms="77" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testClass3 -->
+        <test-method signature="testClass4(java.lang.String,java.lang.String)[pri:4, instance:testcases.Qkart_project@4218d6a3]" started-at="2024-09-07T19:00:54 IST" name="testClass4" data-provider="login_data" finished-at="2024-09-07T19:01:01 IST" duration-ms="6744" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[admin123]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[admin123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testClass4 -->
+        <test-method signature="testClass5()[pri:5, instance:testcases.Qkart_project@4218d6a3]" started-at="2024-09-07T19:01:01 IST" name="testClass5" finished-at="2024-09-07T19:01:47 IST" duration-ms="46088" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testClass5 -->
+        <test-method is-config="true" signature="closeTheBrowser()[pri:0, instance:testcases.Qkart_project@4218d6a3]" started-at="2024-09-07T19:01:47 IST" name="closeTheBrowser" finished-at="2024-09-07T19:01:47 IST" duration-ms="139" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeTheBrowser -->
+      </class> <!-- testcases.Qkart_project -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
